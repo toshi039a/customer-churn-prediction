@@ -283,3 +283,9 @@ customer-churn-prediction/
 ├── README.md
 ├── 離脱予測PF.ipynb
 └── images/
+    ├── .gitkeep
+    ├── complain_churn_rate.png
+    ├── feature_importance.png
+    ├── shap_summary.png
+    ├── tenure_churn_rate.png
+    └── threshold_metrics.png
